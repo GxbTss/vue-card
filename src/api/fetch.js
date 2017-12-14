@@ -2,7 +2,7 @@ import axios from 'axios'
 import qs from 'qs'
 
 const Axios = axios.create({
-  baseURL: 'http://xyzc-api.int.anniu-inc.com/',
+  baseURL: 'http://api.com/',
   responseType: 'json'
 })
 
