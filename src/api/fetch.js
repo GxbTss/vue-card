@@ -2,7 +2,7 @@ import axios from 'axios'
 import qs from 'qs'
 
 const Axios = axios.create({
-  baseURL: 'http://api.com/',
+  baseURL: 'http://api.com',
   responseType: 'json'
 })
 
